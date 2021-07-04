@@ -5,7 +5,6 @@ A subsequence of a string is a new string generated from the original string wit
 For example, "ace" is a subsequence of "abcde".
 
 A common subsequence of two strings is a subsequence that is common to both strings.
-
  
 Example 1:
 
