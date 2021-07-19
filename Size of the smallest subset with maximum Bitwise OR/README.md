@@ -6,7 +6,7 @@ Examples:
 
 Input : arr[] = {5, 1, 3, 4, 2}\
 Output : 2\
-7 is the maximum value possible of OR,\ 
+7 is the maximum value possible of OR, 
 5|2 = 7 and 5|3 = 7
 
 Input : arr[] = {2, 6, 2, 8, 4, 5}\
